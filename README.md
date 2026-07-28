@@ -9,6 +9,7 @@
 | [0435-non-overlapping-intervals](https://github.com/SujayCodes/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SujayCodes/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SujayCodes/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SujayCodes/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -33,4 +34,8 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SujayCodes/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## String
+|  |
+| ------- |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SujayCodes/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 <!---LeetCode Topics End-->
