@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/SujayCodes/LeetCode/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/SujayCodes/LeetCode/tree/master/0037-sudoku-solver) |
+| [0040-combination-sum-ii](https://github.com/SujayCodes/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/SujayCodes/LeetCode/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/SujayCodes/LeetCode/tree/master/0056-merge-intervals) |
 | [0435-non-overlapping-intervals](https://github.com/SujayCodes/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/SujayCodes/LeetCode/tree/master/0037-sudoku-solver) |
+| [0040-combination-sum-ii](https://github.com/SujayCodes/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/SujayCodes/LeetCode/tree/master/0051-n-queens) |
 ## Matrix
 |  |
