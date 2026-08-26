@@ -8,6 +8,7 @@
 | [0037-sudoku-solver](https://github.com/SujayCodes/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/SujayCodes/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SujayCodes/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0048-rotate-image](https://github.com/SujayCodes/LeetCode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/SujayCodes/LeetCode/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/SujayCodes/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/SujayCodes/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -57,6 +58,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/SujayCodes/LeetCode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/SujayCodes/LeetCode/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/SujayCodes/LeetCode/tree/master/0867-transpose-matrix) |
 ## Two Pointers
 |  |
@@ -66,4 +68,8 @@
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/SujayCodes/LeetCode/tree/master/0867-transpose-matrix) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/SujayCodes/LeetCode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
