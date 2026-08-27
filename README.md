@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SujayCodes/LeetCode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/SujayCodes/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0037-sudoku-solver](https://github.com/SujayCodes/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/SujayCodes/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SujayCodes/LeetCode/tree/master/0040-combination-sum-ii) |
@@ -49,6 +50,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/SujayCodes/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/SujayCodes/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/SujayCodes/LeetCode/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/SujayCodes/LeetCode/tree/master/0541-reverse-string-ii) |
@@ -82,4 +84,8 @@
 | ------- |
 | [0048-rotate-image](https://github.com/SujayCodes/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/SujayCodes/LeetCode/tree/master/0189-rotate-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/SujayCodes/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
