@@ -42,6 +42,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/SujayCodes/LeetCode/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/SujayCodes/LeetCode/tree/master/0037-sudoku-solver) |
+| [0205-isomorphic-strings](https://github.com/SujayCodes/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SujayCodes/LeetCode/tree/master/0242-valid-anagram) |
 ## Heap (Priority Queue)
 |  |
@@ -51,6 +52,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SujayCodes/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0205-isomorphic-strings](https://github.com/SujayCodes/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SujayCodes/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/SujayCodes/LeetCode/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/SujayCodes/LeetCode/tree/master/0541-reverse-string-ii) |
