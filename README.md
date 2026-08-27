@@ -12,6 +12,7 @@
 | [0051-n-queens](https://github.com/SujayCodes/LeetCode/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/SujayCodes/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/SujayCodes/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/SujayCodes/LeetCode/tree/master/0189-rotate-array) |
 | [0435-non-overlapping-intervals](https://github.com/SujayCodes/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SujayCodes/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0867-transpose-matrix](https://github.com/SujayCodes/LeetCode/tree/master/0867-transpose-matrix) |
@@ -64,6 +65,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/SujayCodes/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/SujayCodes/LeetCode/tree/master/0189-rotate-array) |
 ## Simulation
 |  |
 | ------- |
@@ -72,4 +74,5 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/SujayCodes/LeetCode/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/SujayCodes/LeetCode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
