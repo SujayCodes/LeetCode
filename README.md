@@ -48,6 +48,7 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/SujayCodes/LeetCode/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/SujayCodes/LeetCode/tree/master/0541-reverse-string-ii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SujayCodes/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Backtracking
 |  |
@@ -68,6 +69,7 @@
 | [0088-merge-sorted-array](https://github.com/SujayCodes/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/SujayCodes/LeetCode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/SujayCodes/LeetCode/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/SujayCodes/LeetCode/tree/master/0541-reverse-string-ii) |
 ## Simulation
 |  |
 | ------- |
