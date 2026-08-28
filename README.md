@@ -12,6 +12,7 @@
 | [0048-rotate-image](https://github.com/SujayCodes/LeetCode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/SujayCodes/LeetCode/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/SujayCodes/LeetCode/tree/master/0056-merge-intervals) |
+| [0078-subsets](https://github.com/SujayCodes/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/SujayCodes/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/SujayCodes/LeetCode/tree/master/0189-rotate-array) |
 | [0435-non-overlapping-intervals](https://github.com/SujayCodes/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -65,6 +66,7 @@
 | [0039-combination-sum](https://github.com/SujayCodes/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SujayCodes/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/SujayCodes/LeetCode/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/SujayCodes/LeetCode/tree/master/0078-subsets) |
 ## Matrix
 |  |
 | ------- |
@@ -92,4 +94,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SujayCodes/LeetCode/tree/master/0014-longest-common-prefix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/SujayCodes/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
