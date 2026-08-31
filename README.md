@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/SujayCodes/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/SujayCodes/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0033-search-in-rotated-sorted-array](https://github.com/SujayCodes/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/SujayCodes/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/SujayCodes/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SujayCodes/LeetCode/tree/master/0040-combination-sum-ii) |
@@ -119,6 +120,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/SujayCodes/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SujayCodes/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Ternary Search
 |  |
