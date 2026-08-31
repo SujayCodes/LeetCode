@@ -18,6 +18,7 @@
 | [0189-rotate-array](https://github.com/SujayCodes/LeetCode/tree/master/0189-rotate-array) |
 | [0435-non-overlapping-intervals](https://github.com/SujayCodes/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SujayCodes/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/SujayCodes/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/SujayCodes/LeetCode/tree/master/0867-transpose-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SujayCodes/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SujayCodes/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -115,4 +116,12 @@
 |  |
 | ------- |
 | [0779-k-th-symbol-in-grammar](https://github.com/SujayCodes/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
+## Binary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/SujayCodes/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/SujayCodes/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
