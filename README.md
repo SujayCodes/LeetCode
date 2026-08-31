@@ -24,6 +24,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/SujayCodes/LeetCode/tree/master/0022-generate-parentheses) |
 | [0435-non-overlapping-intervals](https://github.com/SujayCodes/LeetCode/tree/master/0435-non-overlapping-intervals) |
 ## Greedy
 |  |
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SujayCodes/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/SujayCodes/LeetCode/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/SujayCodes/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/SujayCodes/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SujayCodes/LeetCode/tree/master/0242-valid-anagram) |
@@ -63,6 +65,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/SujayCodes/LeetCode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/SujayCodes/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/SujayCodes/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SujayCodes/LeetCode/tree/master/0040-combination-sum-ii) |
@@ -101,4 +104,8 @@
 | ------- |
 | [0078-subsets](https://github.com/SujayCodes/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SujayCodes/LeetCode/tree/master/0090-subsets-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/SujayCodes/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
