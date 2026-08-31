@@ -3,22 +3,21 @@ public:
     string countAndSay(int n) {
         if(n==1) return "1";
         string str = countAndSay(n-1);
-        string ztr= "";
+        string ztr ="";
         int freq = 1;
         char ch = str[0];
-        for(int i=1;i<str.size();i++){
+        for(int i =1 ; i<str.size();i++){
             char dh = str[i];
             if(ch==dh){
                 freq++;
             }
-            else{    // ch != dh
-                ztr += (to_string(freq) + ch);
+            else{
+                ztr += (to_string(freq)+ch);
                 freq =1;
-                ch= dh;
+                ch=dh;
             }
         }
-        ztr += (to_string(freq) + ch);
+        ztr += (to_string(freq)+ch);
         return ztr;
-
     }
 };
