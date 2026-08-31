@@ -1,28 +1,23 @@
+// Combination sum solving with recursion
+
 class Solution {
 public:
-    vector<vector<int>> result;
-    void f(vector<int>& cand, int t, int idx, vector<int> &subset){
-        if(t==0){
-            result.push_back(subset);
+    void helper(vector<int>& candidates, int target, vector<int>& v, vector<vector<int>> &res, int idx){
+        if(target==0){
+            res.push_back(v);
             return;
         }
-        if(idx==cand.size()) return;
-        if(cand[idx]<=t){
-            subset.push_back(cand[idx]);
-            f(cand,t-cand[idx],idx,subset);
-            subset.pop_back();
+        if(target < 0) return;
+        for(int i=idx;i<candidates.size();i++){
+            v.push_back(candidates[i]);
+            helper(candidates,target-candidates[i],v,res,i);
+            v.pop_back();
         }
-        // 
-        int j=idx+1;
-        //while(j<cand.size() && cand[j]==cand[j-1]) j++;
-        f(cand,t,j,subset);
     }
-    vector<vector<int>> combinationSum(vector<int>& cand, int target) {
-        sort(cand.begin(), cand.end());
-
-        vector<int>subset;
-        result.clear();
-        f(cand,target,0,subset);
-        return result;
+    vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
+        vector<vector<int>> res;
+        vector<int>v;
+        helper(candidates, target, v,res,0);
+        return res;
     }
 };
