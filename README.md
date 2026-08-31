@@ -56,6 +56,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SujayCodes/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/SujayCodes/LeetCode/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/SujayCodes/LeetCode/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/SujayCodes/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/SujayCodes/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SujayCodes/LeetCode/tree/master/0242-valid-anagram) |
