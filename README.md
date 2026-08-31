@@ -95,6 +95,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/SujayCodes/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/SujayCodes/LeetCode/tree/master/0189-rotate-array) |
+| [0779-k-th-symbol-in-grammar](https://github.com/SujayCodes/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Trie
 |  |
 | ------- |
@@ -104,8 +105,13 @@
 | ------- |
 | [0078-subsets](https://github.com/SujayCodes/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SujayCodes/LeetCode/tree/master/0090-subsets-ii) |
+| [0779-k-th-symbol-in-grammar](https://github.com/SujayCodes/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/SujayCodes/LeetCode/tree/master/0022-generate-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/SujayCodes/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 <!---LeetCode Topics End-->
