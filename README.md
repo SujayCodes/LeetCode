@@ -92,6 +92,7 @@
 | [0189-rotate-array](https://github.com/SujayCodes/LeetCode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/SujayCodes/LeetCode/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/SujayCodes/LeetCode/tree/master/0541-reverse-string-ii) |
+| [0633-sum-of-square-numbers](https://github.com/SujayCodes/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/SujayCodes/LeetCode/tree/master/0658-find-k-closest-elements) |
 ## Simulation
 |  |
@@ -102,6 +103,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/SujayCodes/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/SujayCodes/LeetCode/tree/master/0189-rotate-array) |
+| [0633-sum-of-square-numbers](https://github.com/SujayCodes/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/SujayCodes/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Trie
 |  |
@@ -125,6 +127,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/SujayCodes/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/SujayCodes/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/SujayCodes/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SujayCodes/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Ternary Search
