@@ -19,6 +19,7 @@
 | [0189-rotate-array](https://github.com/SujayCodes/LeetCode/tree/master/0189-rotate-array) |
 | [0435-non-overlapping-intervals](https://github.com/SujayCodes/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SujayCodes/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0658-find-k-closest-elements](https://github.com/SujayCodes/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SujayCodes/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/SujayCodes/LeetCode/tree/master/0867-transpose-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SujayCodes/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -41,6 +42,7 @@
 | [0242-valid-anagram](https://github.com/SujayCodes/LeetCode/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/SujayCodes/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SujayCodes/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0658-find-k-closest-elements](https://github.com/SujayCodes/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SujayCodes/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
@@ -52,6 +54,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/SujayCodes/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SujayCodes/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## String
 |  |
@@ -89,6 +92,7 @@
 | [0189-rotate-array](https://github.com/SujayCodes/LeetCode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/SujayCodes/LeetCode/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/SujayCodes/LeetCode/tree/master/0541-reverse-string-ii) |
+| [0658-find-k-closest-elements](https://github.com/SujayCodes/LeetCode/tree/master/0658-find-k-closest-elements) |
 ## Simulation
 |  |
 | ------- |
@@ -121,6 +125,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/SujayCodes/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/SujayCodes/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SujayCodes/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Ternary Search
 |  |
@@ -134,4 +139,8 @@
 | [1148-article-views-i](https://github.com/SujayCodes/LeetCode/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/SujayCodes/LeetCode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/SujayCodes/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/SujayCodes/LeetCode/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
