@@ -154,4 +154,8 @@
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/SujayCodes/LeetCode/tree/master/0658-find-k-closest-elements) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/SujayCodes/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
