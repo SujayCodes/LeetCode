@@ -1,49 +1,52 @@
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     ListNode *next;
- *     ListNode(int x) : val(x), next(NULL) {}
- * };
- */
 class Solution {
 public:
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
-        ListNode* fast;
-        ListNode* slow;
-        int len1 = 0; int len2 =0;
-        ListNode* temp1 = headA;
-        ListNode* temp2 = headB;
-        while(temp1 !=NULL){
+
+        int len1 = 0;
+        int len2 = 0;
+
+        ListNode* t1 = headA;
+        while(t1 != NULL) {
             len1++;
-            temp1 = temp1->next;
+            t1 = t1->next;
         }
-        while(temp2 !=NULL){
+
+        ListNode* t2 = headB;
+        while(t2 != NULL) {
             len2++;
-            temp2 = temp2->next;
-        }
-        int diff = 0; int max = 0;
-        if(len1 > len2){
-            max = len1;
-            diff = max- len2;
-            fast = headA;
-            slow = headB;
-        }
-        else{
-            max = len2;
-            diff = max -len1;
-            fast = headB;
-            slow = headA;
+            t2 = t2->next;
         }
 
-        for(int i=1; i<=diff;i++){
-            fast = fast->next;
+        ListNode* tempA = headA;
+        ListNode* tempB = headB;
+
+        // Move the longer list ahead
+        if(len1 > len2) {
+            int diff = len1 - len2;
+
+            for(int i = 0; i < diff; i++) {
+                tempA = tempA->next;
+            }
+        }
+        else if(len2 > len1) {
+            int diff = len2 - len1;
+
+            for(int i = 0; i < diff; i++) {
+                tempB = tempB->next;
+            }
         }
 
-        while(fast != slow){
-            fast = fast->next;
-            slow= slow->next;
+        // Now both have the same number of nodes remaining
+        while(tempA != NULL && tempB != NULL) {
+
+            if(tempA == tempB) {
+                return tempA;
+            }
+
+            tempA = tempA->next;
+            tempB = tempB->next;
         }
-        return fast;
+
+        return NULL;
     }
 };
