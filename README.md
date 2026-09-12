@@ -71,6 +71,7 @@
 | [0205-isomorphic-strings](https://github.com/SujayCodes/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SujayCodes/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/SujayCodes/LeetCode/tree/master/0344-reverse-string) |
+| [0520-detect-capital](https://github.com/SujayCodes/LeetCode/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/SujayCodes/LeetCode/tree/master/0541-reverse-string-ii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SujayCodes/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Backtracking
