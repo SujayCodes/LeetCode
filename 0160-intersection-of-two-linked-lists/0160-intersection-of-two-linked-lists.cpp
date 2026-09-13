@@ -1,52 +1,49 @@
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode(int x) : val(x), next(NULL) {}
+ * };
+ */
 class Solution {
 public:
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
-
-        int len1 = 0;
-        int len2 = 0;
-
-        ListNode* t1 = headA;
-        while(t1 != NULL) {
-            len1++;
-            t1 = t1->next;
-        }
-
+        int n1 = 0 ; int n2 = 0;
+        ListNode* t1 = headA; 
         ListNode* t2 = headB;
-        while(t2 != NULL) {
-            len2++;
-            t2 = t2->next;
+        while(t1 !=NULL){
+            n1++;
+            t1=t1->next;
         }
+        while(t2 !=NULL){
+            n2++;
+            t2=t2->next;
+        }
+        ListNode* fast;
+        ListNode* slow;
 
-        ListNode* tempA = headA;
-        ListNode* tempB = headB;
-
-        // Move the longer list ahead
-        if(len1 > len2) {
-            int diff = len1 - len2;
-
-            for(int i = 0; i < diff; i++) {
-                tempA = tempA->next;
+        if(n1>n2){
+            int diff = (n1-n2);
+            fast = headA;
+            slow = headB;
+            for(int i=1;i<=diff;i++){
+                fast = fast->next;
             }
         }
-        else if(len2 > len1) {
-            int diff = len2 - len1;
-
-            for(int i = 0; i < diff; i++) {
-                tempB = tempB->next;
+        else{
+            int diff = (n2-n1);
+            fast = headB;
+            slow = headA;
+            for(int i=1;i<=diff;i++){
+                fast = fast->next;
             }
         }
 
-        // Now both have the same number of nodes remaining
-        while(tempA != NULL && tempB != NULL) {
-
-            if(tempA == tempB) {
-                return tempA;
-            }
-
-            tempA = tempA->next;
-            tempB = tempB->next;
+        while(fast != slow){
+            fast = fast->next;
+            slow= slow->next;
         }
-
-        return NULL;
+        return slow;
     }
 };
