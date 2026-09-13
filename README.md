@@ -28,6 +28,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SujayCodes/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SujayCodes/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SujayCodes/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2326-spiral-matrix-iv](https://github.com/SujayCodes/LeetCode/tree/master/2326-spiral-matrix-iv) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -92,6 +93,7 @@
 | [0048-rotate-image](https://github.com/SujayCodes/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/SujayCodes/LeetCode/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/SujayCodes/LeetCode/tree/master/0867-transpose-matrix) |
+| [2326-spiral-matrix-iv](https://github.com/SujayCodes/LeetCode/tree/master/2326-spiral-matrix-iv) |
 ## Two Pointers
 |  |
 | ------- |
@@ -111,6 +113,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/SujayCodes/LeetCode/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/SujayCodes/LeetCode/tree/master/0867-transpose-matrix) |
+| [2326-spiral-matrix-iv](https://github.com/SujayCodes/LeetCode/tree/master/2326-spiral-matrix-iv) |
 ## Math
 |  |
 | ------- |
@@ -173,6 +176,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/SujayCodes/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/SujayCodes/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/SujayCodes/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [2326-spiral-matrix-iv](https://github.com/SujayCodes/LeetCode/tree/master/2326-spiral-matrix-iv) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
