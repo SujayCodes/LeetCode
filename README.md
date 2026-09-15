@@ -167,6 +167,7 @@
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/SujayCodes/LeetCode/tree/master/0176-second-highest-salary) |
+| [0184-department-highest-salary](https://github.com/SujayCodes/LeetCode/tree/master/0184-department-highest-salary) |
 | [0197-rising-temperature](https://github.com/SujayCodes/LeetCode/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/SujayCodes/LeetCode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/SujayCodes/LeetCode/tree/master/0595-big-countries) |
