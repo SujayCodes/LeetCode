@@ -108,6 +108,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/SujayCodes/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SujayCodes/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/SujayCodes/LeetCode/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/SujayCodes/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/SujayCodes/LeetCode/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/SujayCodes/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0633-sum-of-square-numbers](https://github.com/SujayCodes/LeetCode/tree/master/0633-sum-of-square-numbers) |
@@ -145,6 +146,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/SujayCodes/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/SujayCodes/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/SujayCodes/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0779-k-th-symbol-in-grammar](https://github.com/SujayCodes/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Binary Search
 |  |
@@ -188,6 +190,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/SujayCodes/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SujayCodes/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/SujayCodes/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/SujayCodes/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/SujayCodes/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/SujayCodes/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2326-spiral-matrix-iv](https://github.com/SujayCodes/LeetCode/tree/master/2326-spiral-matrix-iv) |
@@ -212,4 +215,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SujayCodes/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/SujayCodes/LeetCode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
