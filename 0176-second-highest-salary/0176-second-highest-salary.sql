@@ -6,5 +6,5 @@
 SELECT MAX(salary) AS SecondHighestSalary
 FROM Employee
 WHERE 
-salary NOT IN (SELECT MAX(salary) from Employee)
+(salary<(SELECT MAX(salary) from Employee))
 ;
