@@ -1,4 +1,4 @@
-# Write your MySQL query statement below
+# https://chatgpt.com/share/6aaba11e-c02c-83e8-9402-d1192a8d6299
 
 SELECT e1.name
 FROM Employee e1
