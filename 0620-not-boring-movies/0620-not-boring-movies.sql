@@ -1,9 +1,14 @@
-# Write your MySQL query statement below
+# USING CTE
 
+
+
+WITH CTE AS
+(
+    SELECT *
+    FROM Cinema
+    WHERE id % 2 = 1
+      AND description <> 'boring'
+)
 SELECT *
-FROM Cinema
-WHERE id%2 != 0 
-AND description != 'boring'
-ORDER BY rating DESC
-;
-
+FROM CTE
+ORDER BY rating DESC;
