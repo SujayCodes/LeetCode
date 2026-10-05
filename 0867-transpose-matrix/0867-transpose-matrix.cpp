@@ -4,9 +4,9 @@ public:
         int m = matrix.size();    // row
         int n = matrix[0].size();   // column
         vector<vector<int>> res(n, vector<int>(m));
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
-                res[j][i]= matrix[i][j];
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                res[i][j]= matrix[j][i];
             }
         }
         return res;
